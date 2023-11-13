@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+
+
+ .blue-box {
+  border: 1px solid blue; /* Bordure bleue */
+  background-color: lightblue; /* Fond bleu clair */
+  padding: 10px; /* Un peu de padding pour l'espacement */
+  margin-bottom: 5px; /* Espace entre les cases */
+}
